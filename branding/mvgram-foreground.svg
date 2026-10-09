@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <title>MVGram adaptive icon foreground</title>
+  <desc>Transparent foreground layer containing the original MVGram conversation-bubble mark.</desc>
+  <path fill="#F7FAFF" d="M512 190c-192 0-348 132-348 295 0 112 74 210 185 260l-32 126c-4 17 15 30 30 21l149-91c6 1 11 1 16 1 192 0 348-132 348-295S704 190 512 190z"/>
+  <path fill="#101C36" d="M365 414c0-14 11-25 25-25h245c14 0 25 11 25 25s-11 25-25 25H390c-14 0-25-11-25-25zm0 112c0-14 11-25 25-25h158c14 0 25 11 25 25s-11 25-25 25H390c-14 0-25-11-25-25z"/>
+  <circle cx="692" cy="526" r="25" fill="#63D8C2"/>
+</svg>
