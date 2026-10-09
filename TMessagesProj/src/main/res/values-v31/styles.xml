@@ -30,7 +30,7 @@
         <item name="android:forceDarkAllowed">false</item>
         <item name="android:windowSplashScreenAnimatedIcon">@drawable/mvgram_splash_320</item>
         <item name="android:windowSplashScreenAnimationDuration">@integer/splash_screen_duration</item>
-        <item name="android:windowSplashScreenBackground">#101C36</item>
+        <item name="android:windowSplashScreenBackground">#FFFFFF</item>
     </style>
 
     <style name="Theme.TMessages" parent="Theme.AppCompat.Light">
